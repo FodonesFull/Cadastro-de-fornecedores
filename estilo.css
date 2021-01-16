@@ -1,0 +1,21 @@
+/*
+#####################################################################################################################################################
+# Nome do Programa: estilo.css
+# Objetivo........: Especificar os seletores, classes e identificadores usados nos PA de gerenciamento de dados
+# Descrição.......: Os seletores, classes e identificadores CSS são dispostos em grupos.
+# Autor...........: JMH
+# Criação.........: 2020-10-28 - Estruturação e detalhamento dos seletores fundamentais
+# Atualização.....: 2020-10-28 - Copiei o grupo de seletores para formatação da Borda da Tabela.
+#                   2020-10-28 - Criei o seletor para texto em negrito e vermelho
+#                   2020-11-01 - Escrevi as diretrizes do seletor divmenu{} // background-color: #00FF7F;
+#####################################################################################################################################################
+*/
+/* definindo seletores */
+divmenu {position: fixed; background-color: #FFDEAD; width: 100%; height: 30px; margin: -8px 0px 0px -8px;}
+lgrey {color: #A9A9A9; font-weight: bold;}
+red { color: #FF0000; }
+redbold { color: #FF0000; font-size: 1.2em; font-weight: bold; }
+// table ,td, th { border: 1px solid black; border-collapse: collapse; }
+/* declarando classes de seletores */
+/* definindo classes (gerais) */
+/* definindo identificadores (gerais) */
